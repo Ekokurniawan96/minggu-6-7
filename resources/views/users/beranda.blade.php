@@ -3,7 +3,7 @@
 <div class="container">
     <div class="container">
 
-        <h1> Selamat Datang Di tempat Penjualan Tolektro Shop</h1>
+        <h1> Hi welcome to TokWan Shop</h1>
     </div>
     <!-- /.row -->
     <di class="row">
@@ -34,13 +34,13 @@
                 </a>
                 <ul class="list-group">
                     <li class="list-group-item">Mobile Accessaries
-                        <span class="label label-warning pull-right">456</span>
+                        <span class="label label-warning pull-right">250</span>
                     </li>
                     <li class="list-group-item">Men's Accessaries
-                        <span class="label label-success pull-right">156</span>
+                        <span class="label label-success pull-right">250</span>
                     </li>
                     <li class="list-group-item">Women's Accessaries
-                        <span class="label label-info pull-right">400</span>
+                        <span class="label label-info pull-right">250</span>
                     </li>
                     <li class="list-group-item">Kid's Accessaries
                         <span class="label label-primary pull-right">89</span>
@@ -49,7 +49,7 @@
                         <span class="label label-danger pull-right">90</span>
                     </li>
                     <li class="list-group-item">Kitchen Products
-                        <span class="label label-warning pull-right">567</span>
+                        <span class="label label-warning pull-right">400</span>
                     </li>
                 </ul>
             </div>
